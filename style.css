@@ -5,7 +5,7 @@ body {
     text-align: center;
     color: white;
     background-color: rgb(105,105,105);
-    border: 5px cyan;
+    border: 5px cyan solid;
     padding: 13px;
 }
 
