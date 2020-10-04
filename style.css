@@ -1,0 +1,45 @@
+
+body {
+font-family: roboto;
+font-size: 22px;
+font-style: italic;
+text_align: center;
+text-decoration: underline;
+color:green
+}
+
+.box-1 {
+    background-color:#333;
+    color:#fff;
+
+    border-right:5px red solid;
+    border-left:5px red solid;
+    border-top:5px red solid;
+    border-bottom:5px red solid;
+
+    border: 5px red solid;
+    border-width:3px;
+    border-bottom-width:10px;
+    border-top-style:dotted;
+
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:20px;
+    padding-right:20px;
+
+}
+
+.box-1 h1{
+    font-family:Tahoma;
+    font-weight:100;
+    font-style:italic;
+    text-decoration:underline;
+    text-transform:uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+}
+
+
+
+
+
