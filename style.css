@@ -1,37 +1,15 @@
 body {
-font-family: roboto;
-font-size: 22px;
-font-style: italic;
-text-align: center;
-border-right: 5px;
-border-left: 5px;
-border-top: 5px;
-border-bottom: 5px;
-color:black
-}
-
-.body {
-    background-color:#333;
-    color:#fff;
-
-    border-right:5px red solid;
-    border-left:5px red solid;
-    border-top:5px red solid;
-    border-bottom:5px red solid;
-
+    font-family: roboto;
+    font-size: 22px;
+    font-style: italic;
+    text-align: center;
+    color: black;
+    background-color: #333;
     border: 5px red solid;
-    border-width:3px;
-    border-bottom-width:10px;
-    border-top-style:dotted;
-
-    padding-top:20px;
-    padding-bottom:20px;
-    padding-left:20px;
-    padding-right:20px;
-
+    padding: 20px;
 }
 
-.body h1{
+h1{
     font-family:Tahoma;
     font-weight:100;
     font-style:italic;
@@ -41,7 +19,7 @@ color:black
     word-spacing: 1em;
 }
 
-.header{
+header{
     color:red;
     text-shadow: coral;
     text-transform: uppercase;
@@ -55,15 +33,7 @@ color:black
 
 }
 
-.h2{
+h2{
     color: yellowgreen;
     text-decoration: underline;
 }
-    
-
-
-
-
-
-
-
