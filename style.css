@@ -19,8 +19,8 @@ h1{
 }
 
 header{
-    color:red;
-    text-shadow: coral;
+    color: cyan;
+    text-shadow: blue;
     text-transform: uppercase;
     text-decoration-style: wavy;
     border-right: 5px;
